@@ -1,6 +1,6 @@
 # force_recompile_shaders
 
-Removes all shader caches from Nvidia and AMD GPUs on Windows.
+Removes all shader caches from Nvidia, AMD, and Intel Arc GPUs on Windows.
 
 Used to troubleshoot Starfield in particular, but applies to other games generally.
 
@@ -32,3 +32,5 @@ Currently only supports the interactive flag:
 
 ## Futher Reading
 [[Guide] How to force recompile shaders : Starfield](https://www.reddit.com/r/Starfield/comments/16703yo/guide_how_to_force_recompile_shaders/)
+
+[MoscaDotTo/Winapp2: A database of extended cleaning routines for popular Windows PC based maintenance software.](https://github.com/MoscaDotTo/Winapp2/)
